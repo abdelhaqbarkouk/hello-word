@@ -1,2 +1,2 @@
 <h1> Bonjour, Bienvenue dans Simple DevOps Project !!! </h1>
-<h2> Déploiement sur VM </h2>
+<h2> Deploiement sur VM tomcat</h2>
